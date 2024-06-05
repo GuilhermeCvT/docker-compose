@@ -1,9 +1,7 @@
 Configuração de Ambiente com Docker Compose
 -----
 
-Este projeto foi criado utilizando o template padrão do NestJS.
-
-Nele, foi utilizado tudo o que foi aprendido no curso DevOps da Rocketset, integrando uma aplicação comum com um banco de dados PostgreSQL.
+Este projeto foi criado com o template padrão do NestJS. Nele, foi utilizado todo o conhecimento aprendido no curso DevOps da Rocketset, integrando uma aplicação comum com um banco de dados PostgreSQL.
 
 Para conseguir executar este projeto inteiro:
 
